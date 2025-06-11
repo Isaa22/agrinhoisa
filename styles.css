@@ -272,13 +272,6 @@ html, body {
   gap: 2rem;
 }
 
-p{ 
- font-family: 'cursive;';
- text-align:justify;
-}
-
-
-
 .about-left {
   flex: 1;
   display: flex;
