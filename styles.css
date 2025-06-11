@@ -272,6 +272,12 @@ html, body {
   gap: 2rem;
 }
 
+p{ 
+ font-family: 'cursive;';
+ text-align:justify;
+}
+
+
 
 .about-left {
   flex: 1;
@@ -392,7 +398,6 @@ html, body {
   }
 
 .contact-title {
-  font-size: 2.5rem;
   text-align: center;
   margin-bottom: 2rem;
   font-family: 'Poppins', sans-serif;
