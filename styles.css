@@ -136,6 +136,23 @@ html, body {
   background-color: #fff;
 }
 
+.logo-animation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.logo-animation img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.logo-animation img:hover {
+  transform: scale(1.03);
+}
 .hero-content {
   position: relative;
   z-index: 1;
