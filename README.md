@@ -10,7 +10,7 @@
 ### Referencias: Declaro que todas as imagens, vídeo e audio aqui apresentadas são de minha autoria, produzidas, composta e editadas por mim.
 ### Vídeo: Declaro que todas as imagens, vídeo e audio aqui apresentadas são de minha autoria, produzidas, composta e editadas por mim.
 ### NOME DA MÚSICA: Morangos da vída
-### Repositorio aluno " ([https://github.com/Isaa22/agrinhoisa]). Acesso em: 19/06/2025 .
+### Repositorio aluno " ([https://github.com/Isaa22/agrinhoisa]). Acesso em: 10/06/2026 .
 ### Link do site onde usei os icones de morango: https://icons8.com.br/icons/set/morango
 ### GitHub Pages: https://isaa22.github.io/agrinhoisa/
 ### Nota: Neste projeto usei html, css e javascrit.
