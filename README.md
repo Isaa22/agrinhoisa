@@ -3,7 +3,7 @@
 ### Professor: Rafael Assis Santos
 ### Escola: Colégio Estadual Rio Branco
 ### Cidade: Rio Branco do Ivaí
-### Tema : Festejando a conexão campo cidade
+### Tema : Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente.
 ### Site: Declaro que todas as imagens, vídeo e audio aqui apresentadas são de minha autoria, produzidas, composta e editadas por mim.
 # Referencias:
 ### Imagens: Declaro que todas as imagens, vídeo e audio aqui apresentadas são de minha autoria, produzidas, composta e editadas por mim.
