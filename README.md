@@ -1,4 +1,4 @@
-# Projeto Agrinho 2025
+# Projeto Agrinho 2026
 ### Autor: MARIA ISABELY SOARES CARVALHO
 ### Professor: Rafael Assis Santos
 ### Escola: Colégio Estadual Rio Branco
